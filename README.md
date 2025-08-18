@@ -23,7 +23,7 @@ Meu site pessoal para apresentar quem sou e meus projetos.
 - Formulário de contato  
 
 **Preview:**  
-![Portfólio]()
+![Portfólio](https://imgur.com/a/CeOIdxG)
 
 ---
 
@@ -35,7 +35,7 @@ Recriação da interface da Netflix, com carrossel e efeitos em filmes.
 - Layout responsivo  
 
 **Preview:**  
-![Clone da Netflix](https://imgur.com/a/lYAhPxl)
+![Clone da Netflix]()
 
 ---
 
