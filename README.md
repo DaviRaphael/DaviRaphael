@@ -15,7 +15,7 @@
 
 ## 📌 Projetos em Destaque  
 
-### 🌐 [Portfólio Pessoal](https://github.com/SEU_USERNAME/portfolio)  
+### 🌐 [Portfólio Pessoal]https://github.com/DaviRaphael/Meu-portf-lio-pessoal.git)  
 Meu site pessoal para apresentar quem sou e meus projetos.  
 **Funcionalidades:**  
 - Scroll suave  
