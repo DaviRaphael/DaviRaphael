@@ -52,7 +52,7 @@ Aplicação simples para organizar tarefas do dia a dia.
 ---
 
 ## 🌐 Onde me encontrar
-[![Discord](https://img.shields.io/badge/Discord-Slash%231234-7289DA?logo=discord&logoColor=white)](https://discord.com/users/876915091520520195)
+Discord: Tiru.w
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](daviraphael2008@gmail.com)  
 
 ---
