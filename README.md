@@ -52,8 +52,8 @@ Aplicação simples para organizar tarefas do dia a dia.
 ---
 
 ## 🌐 Onde me encontrar
-Discord: Tiru.w
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](daviraphael2008@gmail.com)  
+![Discord](Tiru.w)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](daviraphae2008@gmail.com)  
 
 ---
 
