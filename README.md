@@ -35,7 +35,7 @@ Recriação da interface da Netflix, com carrossel e efeitos em filmes.
 - Layout responsivo  
 
 **Preview:**  
-![Clone da Netflix]()
+![Clone da Netflix](https://i.imgur.com/uYxBFHg.jpeg)
 
 ---
 
