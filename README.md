@@ -52,7 +52,7 @@ Aplicação simples para organizar tarefas do dia a dia.
 ---
 
 ## 🌐 Onde me encontrar
-[![Email](https://img.shields.io/badge/Email-seunome%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:daviraphael2008@gmail.com)
+[![Email](https://img.shields.io/badge/Email-seunome%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](daviraphael2008@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Slash%231234-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/876915091520520195)
 
 ---
