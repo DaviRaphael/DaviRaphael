@@ -52,8 +52,8 @@ Aplicação simples para organizar tarefas do dia a dia.
 ---
 
 ## 🌐 Onde me encontrar
-Discord - Tiru.w
-Email - daviraphael2008@gmail.com
+- Discord: Tiru.w
+- Email: daviraphael2008@gmail.com
 
 ---
 
