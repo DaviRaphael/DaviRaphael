@@ -23,7 +23,7 @@ Meu site pessoal para apresentar quem sou e meus projetos.
 - Formulário de contato  
 
 **Preview:**  
-![Portfólio](https://i.imgur.com/SEU_LINK.png)
+![Portfólio]()
 
 ---
 
