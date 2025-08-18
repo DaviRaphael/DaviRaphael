@@ -39,7 +39,7 @@ Recriação da interface da Netflix, com carrossel e efeitos em filmes.
 
 ---
 
-### 📝 [Lista de Tarefas](https://github.com/SEU_USERNAME/todo-list)  
+### 📝 [Lista de Tarefas](https://github.com/DaviRaphael/lista-de-tarefas)  
 Aplicação simples para organizar tarefas do dia a dia.  
 **Funcionalidades:**  
 - Adicionar e concluir tarefas  
@@ -47,7 +47,7 @@ Aplicação simples para organizar tarefas do dia a dia.
 - Botão "limpar tudo"  
 
 **Preview:**  
-![Lista de Tarefas](https://i.imgur.com/SEU_LINK.png)
+![Lista de Tarefas](https://i.imgur.com/NhEEBBK.jpeg)
 
 ---
 
