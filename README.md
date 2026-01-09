@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Davi Raphael  
 
-🎯 Tenho **17 anos** e atualmente estou focado em **desenvolvimento front-end**.  
+🎯 Tenho **18 anos** e atualmente estou focado em **desenvolvimento front-end**.  
 🌐 Estou aprendendo a criar interfaces modernas e responsivas usando **HTML, CSS e JavaScript**.  
 💻 Apaixonado por tecnologia e programação, sempre buscando evoluir e criar projetos cada vez melhores.  
 
